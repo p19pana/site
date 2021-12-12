@@ -20,5 +20,5 @@
 	branch = master
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
+	url = https://github.com/pibook/_bibliography.git
 	branch = master
