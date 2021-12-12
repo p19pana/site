@@ -8,6 +8,7 @@ slides:
   - sage-lightgun
   - sketchpad
   - eliza-chat-bot
+  - ascii-art
   - joss
   - dartmouth-basic
   - sword-of-damocles
